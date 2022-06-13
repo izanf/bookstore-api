@@ -83,7 +83,7 @@ DATABASES = {
         'NAME'    : 'bookstore',
         'USER'    : 'izanf',
         'PASSWORD': '369power',
-        'HOST'    : 'localhost',
+        'HOST'    : 'bookstore-2k22.csgssa4ntp6r.us-east-1.rds.amazonaws.com',
         'PORT'    : '3306',
     }
 }

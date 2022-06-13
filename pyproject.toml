@@ -11,6 +11,7 @@ Markdown = "^3.3.6"
 django-filter = "^21.1"
 mysqlclient = "^2.1.0"
 ipython = "^8.2.0"
+Django = "^4.0.4"
 
 [tool.poetry.dev-dependencies]
 
