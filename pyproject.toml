@@ -12,6 +12,8 @@ django-filter = "^21.1"
 mysqlclient = "^2.1.0"
 ipython = "^8.2.0"
 Django = "^4.0.4"
+python-decouple = "^3.6"
+django-cors-headers = "^3.13.0"
 
 [tool.poetry.dev-dependencies]
 
